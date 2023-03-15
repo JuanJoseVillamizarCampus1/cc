@@ -103,7 +103,7 @@ card4.appendChild(article4)
 
  const links2 = document.createElement('a')
  links2.innerHTML="Pronto"
- links2.href="https://www.cinecolombia.com/bucaramanga/prontohttps://www.cinecolombia.com/bucaramanga/cartelera"
+ links2.href="https://www.cinecolombia.com/bucaramanga/pronto"
  links2.target="_blank"
 
  const links3 = document.createElement('a')
